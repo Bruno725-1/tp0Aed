@@ -12,3 +12,4 @@ C:\Users\1561719\Documents\tp0Aed\obj\Debug\net9.0\refint\tp0Aed.dll
 C:\Users\1561719\Documents\tp0Aed\obj\Debug\net9.0\tp0Aed.pdb
 C:\Users\1561719\Documents\tp0Aed\obj\Debug\net9.0\tp0Aed.genruntimeconfig.cache
 C:\Users\1561719\Documents\tp0Aed\obj\Debug\net9.0\ref\tp0Aed.dll
+C:\Users\1561719\Documents\tp0Aed\obj\Debug\net9.0\tp0Aed.sourcelink.json
