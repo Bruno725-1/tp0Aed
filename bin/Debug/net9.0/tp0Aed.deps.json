@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tp0Aed/1.0.0": {
+        "runtime": {
+          "tp0Aed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp0Aed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
