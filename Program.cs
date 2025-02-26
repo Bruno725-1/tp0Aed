@@ -1,17 +1,15 @@
 ﻿using System;
 class Program {
     public static void Main (string[] args) {
-        int supermercados = int.Parse(Console.ReadLine());
-        double menorPreco = 100000;
-        for (int i = 0; i < supermercados; i++) {
-            string linha = Console.ReadLine();
-            string[] valores = linha.Split(' ');
-            double preco = double.Parse(valores[0]);
-            int peso = int.Parse(valores[1]);
-            double x = (preco * 1000) / peso;
-            if (x < menorPreco)
-            menorPreco = x;
+        int x = int.Parse(Console.ReadLine());
+        int n = int.Parse(Console.ReadLine());
+        int acumulado = x;
+        for (int i = 0; i < n; i++) {
+            int m_i = int.Parse(Console.ReadLine());
+            int saldo = x - m_i;
+            acumulado = saldo + acumulado;
+            
         }
-        Console.WriteLine($"{menorPreco:F2}");
+        Console.WriteLine(acumulado);
     }
 }
